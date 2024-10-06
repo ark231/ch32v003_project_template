@@ -1,0 +1,10 @@
+BasedOnStyle: Google
+IndentWidth: 4
+Language: Cpp
+Standard: Auto
+TabWidth: 4
+UseCRLF: false
+ColumnLimit: 120
+IndentPPDirectives: AfterHash
+AlignConsecutiveAssignments: Consecutive 
+AlignConsecutiveMacros: Consecutive
